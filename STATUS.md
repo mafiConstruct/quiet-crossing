@@ -1,6 +1,6 @@
 # Status: Quiet Crossing
 
-Last updated: 2026-11-25. Playable prototype, first release.
+Last updated: 2026-11-25. Small, complete game (8 crossings and an ending screen), first release. Short on purpose.
 
 ## What exists
 - A complete loop: title, intro, eight crossings with eight passengers, stars per crossing, a Ferry log at the end.
