@@ -61,6 +61,7 @@ Calm drops when you upset them and slowly recovers. You get 0 to 3 stars per cro
 - No human has judged whether it is fun or well balanced. Balance was checked with a scripted bot only.
 - Sound has not been heard on a real device.
 - Touch controls exist but were only tested with a mouse in a desktop browser.
+- On a phone held upright the 16:9 game is small. Turn the phone sideways.
 - English only.
 
 ## License
