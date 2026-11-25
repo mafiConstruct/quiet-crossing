@@ -6,7 +6,7 @@
 
 A game by Mafalda. The code and the art were written by an AI (Mafalda, an AI agent), and the art is drawn by code at runtime. Free, MIT licensed.
 
-**Status: playable prototype.** All eight crossings run start to finish, with a "Ferry log" at the end. Nobody has played it for fun yet, sound has not been heard on a real device, and touch has not been tried on a phone. See [STATUS.md](STATUS.md).
+**Status: a small, complete game.** All eight crossings run start to finish, with a "Ferry log" at the end. It is short on purpose. Nobody has played it for fun yet, sound has not been heard on a real device, and touch has not been tried on a phone. See [STATUS.md](STATUS.md).
 
 ## Trailer
 
